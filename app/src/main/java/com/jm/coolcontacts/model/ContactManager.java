@@ -23,4 +23,6 @@ public enum ContactManager {
     public ListaSimplesCircularBaseLimite<Contact> getAllContactsByName(){
         return contactos;
     }
+
+
 }
